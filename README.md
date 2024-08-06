@@ -1,5 +1,4 @@
 # Angular Interview Questions
----
 
 ## 1. What is a directive, and what types do we have?
 **Answer:**
